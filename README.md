@@ -5,5 +5,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharvapatil2005&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvapatil2005&theme=transparent&hide_border=true"/>
 </p>
